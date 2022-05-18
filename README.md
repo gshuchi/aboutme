@@ -9,7 +9,7 @@
 
 💬 Ask me about **Manual (Functional, Smoke/Sanity & Regression) Testing, Test Automation and APIs**
 
-📫 Reach me on **gshuchi1024@gmail.com**
+📫 Write to on **gshuchi1024@gmail.com**
 
 ⚡ Fun fact **I think I am Funny!**
 
