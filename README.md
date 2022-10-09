@@ -1,9 +1,9 @@
 <h1 align="center">Gaurav Shuchi</h1>
-<h3 align="center">Hey! I am a QA Engineer in MAT (Mobile Application Testing).</h3>
+<h3 align="center">Hey! I am a Mobile Test Engineer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
-🔭 I love to do **Automation of iOS & Android Apps**
+🔭 I love to do **Automation of iOS, Android & React-Native Apps**
 
 🌱 I am learning **CI/CD implementation** and looking to 👯 collaborate on **E2E Functional Mobile Apps Automation with Appium**
 
