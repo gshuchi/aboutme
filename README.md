@@ -1,11 +1,11 @@
 <h1 align="center">Gaurav Shuchi</h1>
-<h3 align="center">Hey! I am a QA Engineer(Mobile).</h3>
+<h3 align="center">Hey! I am a QA Engineer (From Manual to Maven | UI/UX | API).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
 🔭 I love doing **automation of iOS, Android & React-Native apps.**
 
-🌱 I am learning **CI/CD implementation** and **performance testing** of mobile apps and and looking to 👯 collaborate on **E2E Functional Mobile Apps Automation with Appium.**
+🌱 I am learning **performance testing** of mobile apps along with **api automation using rest-assured** and and looking to 👯 collaborate on **E2E Functional Mobile Apps Automation with Appium.**
 
 💬 Ask me about **Manual (Functional, Smoke/Sanity, Regression & UAT), Automation & Performance Testing** of Mobile apps.
 
