@@ -5,7 +5,7 @@
 
 🔭 I love doing **automation of iOS, Android & React-Native apps.**
 
-🌱 I am learning **Playwright** for **Web & API automation** and looking to 👯 collaborate on **E2E Functional Testing with Appium & Playwright using Java.**
+🌱 I am learning **Rest-Assured and Selenium** for **API & Web automation** and looking to 👯 collaborate on **E2E Functional Testing with Java Stack.**
 
 💬 Ask me about **Manual (Functional, Smoke/Sanity, Regression & UAT) &  Automation** of Web and Mobile apps.
 
