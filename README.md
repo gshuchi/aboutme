@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
-🔭 I love doing **automation of iOS, Android & React-Native apps.**
+🔭 I love doing **automation of iOS, Android & React-Native Apps.**
 
-🌱 I am learning **Rest-Assured and Selenium** for **API & Web automation** and looking to 👯 collaborate on **E2E Functional Testing with Java Stack.**
+🌱 I am learning **Rest-Assured and Selenium** for **API & Web Automation** and looking to 👯 collaborate on **E2E Functional Testing with Java Test Automation Stack.**
 
-💬 Ask me about **Manual (Functional, Smoke/Sanity, Regression & UAT) &  Automation** of Web and Mobile apps.
+💬 Ask me about **Manual (Functional, Smoke/Sanity, Regression & UAT) &  Automation** of Web and Mobile Apps.
 
 👨‍💻 My projects are available at [https://github.com/gshuchi](https://github.com/gshuchi)
 
