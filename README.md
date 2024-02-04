@@ -1,13 +1,13 @@
 <h1 align="center">Gaurav Shuchi</h1>
-<h3 align="center">Hey! I am a QA Engineer (From Manual to Maven | UI/UX | API).</h3>
+<h3 align="center">Hey! I am a QA Engineer (From Manual to Maven).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
 🔭 I love doing **automation of iOS, Android & React-Native apps.**
 
-🌱 I am learning **performance testing** of mobile apps along with **api automation** and looking to 👯 collaborate on **E2E Functional Mobile Apps Automation with Appium and API Automation using Rest-Assured.**
+🌱 I am learning **Playwright** for **Web & API automation** and looking to 👯 collaborate on **E2E Functional Testing with Appium & Playwright using Java.**
 
-💬 Ask me about **Manual (Functional, Smoke/Sanity, Regression & UAT), Automation & Performance Testing** of Mobile apps.
+💬 Ask me about **Manual (Functional, Smoke/Sanity, Regression & UAT) &  Automation** of Web and Mobile apps.
 
 👨‍💻 My projects are available at [https://github.com/gshuchi](https://github.com/gshuchi)
 
