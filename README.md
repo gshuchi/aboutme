@@ -5,7 +5,7 @@
 
 🔭 I love doing **automation of iOS, Android & React-Native Apps.**
 
-🌱 I am learning **Rest-Assured and Selenium** for **API & Web Automation** and looking to 👯 collaborate on **E2E Functional Testing with Java Test Automation Stack.**
+🌱 I am looking to 👯 collaborate on **E2E Functional Testing of Mobile Apps with Appium.**
 
 💬 Ask me about **Manual (Functional, Smoke/Sanity, Regression & UAT) &  Automation** of Web and Mobile Apps.
 
