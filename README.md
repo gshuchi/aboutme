@@ -7,7 +7,7 @@
 
 🌱 I am looking to 👯 collaborate on **E2E Functional Testing of Mobile Apps with Appium.**
 
-💬 Ask me about **Manual (Functional, Smoke/Sanity, Regression & UAT) &  Automation** of Web and Mobile Apps.
+💬 Ask me about **Manual (Functional, Smoke/Sanity, Regression & UAT) &  Automation** of Mobile Apps.
 
 👨‍💻 My projects are available at [https://github.com/gshuchi](https://github.com/gshuchi)
 
