@@ -1,5 +1,5 @@
 <h1 align="center">Gaurav Shuchi</h1>
-<h3 align="center">Hey! I am a QA Engineer (Automating the Hunt for Bugs).</h3>
+<h3 align="center">Hey! I am a Mobile Test Automation Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
@@ -7,7 +7,7 @@
 
 🌱 I am looking to 👯 collaborate on **E2E Functional Testing of Mobile Apps with Appium.**
 
-💬 Ask me about **Manual (Functional, Smoke/Sanity, Regression & UAT) &  Automation** of Mobile Apps.
+💬 Ask me about **Manual, Automation & Performance Testing** of Mobile Apps.
 
 👨‍💻 My projects are available at [https://github.com/gshuchi](https://github.com/gshuchi)
 
