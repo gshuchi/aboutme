@@ -5,9 +5,9 @@
 
 ⚡ Like doing **automation and exploratory manual testing** 
 
-⚙️ Work experience in **automating native 📱 apps of iOS, Android & React-Native platforms along with automation of APIs**
+⚙️ Work experience in **automating native 📱 apps of iOS, Android & React-Native platforms along with API testing**
 
-💬 Ask me about **manual, automation & performance testing of Mobile Apps**
+💬 Ask me about **manual, automation & performance testing of mobile apps**
 
 🌱 Can 👯 **collaborate** on - 
 
@@ -20,9 +20,9 @@
 | **Security Testing**                                         |
 
 
-👨‍💻 My work is available at **[https://github.com/gshuchi](https://github.com/gshuchi)**
+👨‍💻 My work is available at  **[https://github.com/gshuchi](https://github.com/gshuchi)**
 
-📫 Write to me on **gshuchi1024@gmail.com**
+📫 Write to me on  **gshuchi1024@gmail.com**
 
 🔍 **QA** isn’t a job—it’s a way of keeping **software honest**
 
@@ -34,7 +34,7 @@
 
 🤝 **Let’s build better software together✨**
 
-<h3 align="left">Connect with me📡</h3>
+<h3 align="left">Connect with me 📡 </h3>
 <p align="left">
 <a href="https://twitter.com/shuchigaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuchigaurav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shuchigaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuchigaurav" height="30" width="40" /></a>
