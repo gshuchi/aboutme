@@ -1,5 +1,5 @@
 <h1 align="center">Gaurav Shuchi</h1>
-<h3 align="center">Hey 👋🏻! I am a QA Engineer🔎 | Automation Aficionado 🤖 | Bug Hunter 🐞 | ❤️ Java </h3>
+<h3 align="center">Hey 👋🏻 !! I am a QA Engineer🔎 | Automation Aficionado 🤖 | Bug Hunter 🐞 | ❤️ Java </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
@@ -20,9 +20,9 @@
 | **Security Testing**                                         |
 
 
-👨‍💻 My work is available at  **[https://github.com/gshuchi](https://github.com/gshuchi)**
+👨‍💻 My work is available at        **[https://github.com/gshuchi](https://github.com/gshuchi)**
 
-📫 Write to me on  **gshuchi1024@gmail.com**
+📫 Write to me on       **gshuchi1024@gmail.com**
 
 🔍 **QA** isn’t a job—it’s a way of keeping **software honest**
 
