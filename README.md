@@ -1,5 +1,5 @@
 <h1 align="center">Gaurav Shuchi</h1>
-<h3 align="center">Hey 👋🏻 ! I'm a Software Quality Engineering Practitioner 🧑🏻‍💻 | Automation Aficionado & AI Enthusiast 🤖 | Java ❤️ </h3>
+<h3 align="center">Hey! I'm a Software Quality Engineering Practitioner 🧑🏻‍💻 | Automation Aficionado & AI Enthusiast 🤖 | Java ❤️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
@@ -33,7 +33,7 @@
 
 🗄️ My work is available at        **[https://github.com/gshuchi](https://github.com/gshuchi)**
 
-📫 Drop a line anytime on       **gshuchi1024@gmail.com**
+📫 Drop me a line anytime on       **gshuchi1024@gmail.com**
 
 <h3 align="left">Feel free to connect 📡 </h3>
 <p align="left">
