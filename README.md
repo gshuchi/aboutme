@@ -1,5 +1,5 @@
 <h1 align="center">Gaurav Shuchi</h1>
-<h3 align="center">Hey 👋🏻 !! I am a QA Engineer🔎 | Automation Aficionado 🤖 | Bug Hunter 🐞 | ❤️ Java </h3>
+<h3 align="center">Hey 👋🏻 ! I am a QA Engineer🔎 | Automation Aficionado 🤖 | Java ❤️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
@@ -28,7 +28,7 @@
 
 🧠 I test, break, report, and repeat
 
-💪🏻 Strong believer in **user empathy, edge cases** & well-documented bugs🐞
+💪🏻 Strong believer in **user empathy, edge cases** & well-documented **bugs**🐞
 
 ✅ **Quality Advocate** for full & clean test coverage 📊 along with faster feedbacks📝
 
