@@ -21,14 +21,14 @@
 
 🌱 Can 👯 **collaborate** on - 
 
-| **Areas**                                      |
+| **🔭 Areas of My Radar 🎯**                                      |
 |--------------------------------------------------------------|
 | **E2E Functional Testing of Mobile Apps using Appium**       |
 | **API Automation using Rest-Assured**                        |
-| **Performance Testing with JMeter**                          |
 | **Web Automation using Selenium/Playwright**                 |
-| **Security Testing**                                         |
 | **AI in Software Quality Engineering**                       |
+| **Performance Testing with JMeter**                          |
+| **Security Testing**                                         |
 
 
 🗄️ My work is available at        **[https://github.com/gshuchi](https://github.com/gshuchi)**
