@@ -17,16 +17,17 @@
 
 🔍 **QA** isn’t a job—----it’s a way of keeping **software honest**
 
-🤝 **Let’s ship better software together✨**
+🤝 **Let’s ship a better software together✨**
 
-🌱 Can 👯 **collaborate** on - 
+🌱 Can 👯 **collaborate** on the following - 
 
 | **🔭 Areas of My Radar 🎯**                                      |
 |--------------------------------------------------------------|
 | **E2E Functional Testing of Mobile Apps using Appium**       |
 | **API Automation using Rest-Assured**                        |
 | **Web Automation using Selenium/Playwright**                 |
-| **AI in Software Quality Engineering**                       |
+| **Integrating AI in Software Quality Engineering**           |
+| **Accessibility Testing**                                    |
 | **Performance Testing with JMeter**                          |
 | **Security Testing**                                         |
 
