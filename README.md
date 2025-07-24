@@ -1,9 +1,9 @@
 <h1 align="center">Gaurav Shuchi</h1>
-<h3 align="center">Hey! I'm a Software Quality Engineering Professional 🧑🏻‍💻 | Automation Aficionado & AI Enthusiast 🤖 | Java ❤️ </h3>
+<h3 align="center">Hey! I'm a Software Quality Engineering Professional 🧑🏻‍💻 | Automation & AI Enthusiast 🤖 | Java ❤️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
-🧠 I test, break, report, and repeat
+🧠 I test, break, report and repeat
 
 ⚡ Like doing **automation and exploratory manual testing** 
 
@@ -21,14 +21,14 @@
 
 🌱 Can 👯 **collaborate** on the following - 
 
-| **🔭 Areas of My Radar 🎯**                                      |
+| **🔭 Areas of My Radar 🎯**                                   |
 |--------------------------------------------------------------|
-| **E2E Functional Testing of Mobile Apps using Appium**       |
-| **API Automation using Rest-Assured**                        |
-| **Web Automation using Selenium/Playwright**                 |
-| **Integrating AI in Software Quality Engineering**           |
-| **Accessibility Testing**                                    |
+| **E2E Functional Testing of Mobile Apps with Appium**        |
+| **API Automation with Rest-Assured**                         |
+| **Integrating A.I. in Software Quality Engineering**         | 
+| **Web Automation with Selenium/Playwright**                  |
 | **Performance Testing with JMeter**                          |
+| **Accessibility Testing**                                    |
 | **Security Testing**                                         |
 
 
