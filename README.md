@@ -1,5 +1,5 @@
 <h1 align="center">Gaurav Shuchi</h1>
-<h3 align="center">Hey! I'm a Software Quality Engineering Professional 🧑🏻‍💻 | Automation & AI Enthusiast 🤖 | Java ❤️ </h3>
+<h3 align="center">Hey👋🏻! I'm a Software Quality Engineering Professional 🧑🏻‍💻 | Automation & AI Enthusiast 🤖 | Java ❤️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gshuchi&label=Profile%20views&color=0e75b6&style=flat" alt="gshuchi" /> </p>
 
@@ -21,7 +21,7 @@
 
 🌱 Can 👯 **collaborate** on the following - 
 
-| **🔭 Areas of My Radar 🎯**                                   |
+| **🎯Areas of My Radar🔭**                                   |
 |--------------------------------------------------------------|
 | **E2E Functional Testing of Mobile Apps with Appium**        |
 | **API Automation with Rest-Assured**                         |
