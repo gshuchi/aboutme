@@ -15,8 +15,6 @@
 
 ✅ **Quality Advocate** for full & clean test coverage 📊 along with faster feedbacks📝
 
-🔍 **QA** isn’t a job—----it’s a way of keeping **software honest**
-
 🤝 **Let’s ship a better software together✨**
 
 🌱 Can 👯 **collaborate** on the following - 
@@ -26,10 +24,7 @@
 | **E2E Functional Testing of Mobile Apps with Appium**        |
 | **API Automation with Rest-Assured**                         |
 | **Integrating A.I. in Software Quality Engineering**         | 
-| **Web Automation with Selenium/Playwright**                  |
-| **Performance Testing with JMeter**                          |
 | **Accessibility Testing**                                    |
-| **Security Testing**                                         |
 
 
 🗄️ My work is available at        **[https://github.com/gshuchi](https://github.com/gshuchi)**
