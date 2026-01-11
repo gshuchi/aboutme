@@ -21,9 +21,10 @@
 
 | **🎯Areas of My Radar🔭**                                   |
 |--------------------------------------------------------------|
-| **E2E Functional Testing of Mobile Apps with Appium**        |
+| **Integrating AI in Software Quality Engineering**         |
+| **Mobile Automation with Appium**                            |
 | **API Automation with Rest-Assured**                         |
-| **Integrating A.I. in Software Quality Engineering**         | 
+| **Web Automation with Playwright**                           | 
 | **Accessibility Testing**                                    |
 
 
