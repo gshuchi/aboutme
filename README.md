@@ -19,12 +19,11 @@
 
 🌱 Can 👯 **collaborate** on the following - 
 
-| **🎯Areas of My Radar🔭**                                   |
+| **🎯Areas of My Radar🔭**                                     |
 |--------------------------------------------------------------|
-| **Integrating AI in Software Quality Engineering**         |
+| **Integrating AI in Software Quality Engineering**           |
 | **Mobile Automation with Appium**                            |
 | **API Automation with Rest-Assured**                         |
-| **Web Automation with Playwright**                           | 
 | **Accessibility Testing**                                    |
 
 
